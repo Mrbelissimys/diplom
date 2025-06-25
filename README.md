@@ -14,7 +14,7 @@ ASCA — этот проект направлен на разработку за
 
 ## Автор
 
-- [@Mrbelissimys](https://github.com/Mrbelissimys))
+- [@Mrbelissimys](https://github.com/Mrbelissimys)
 
 - <h2 align="left">Проект написан с помощью</h2>
 
