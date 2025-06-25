@@ -1,5 +1,5 @@
 # ASCA
-[ASCA](https://github.com/user-attachments/assets/e4a26cdd-3286-44c9-8f6c-85887cb95f02)
+![ASCA](https://github.com/user-attachments/assets/e4a26cdd-3286-44c9-8f6c-85887cb95f02)
 
 
 ## Описание
