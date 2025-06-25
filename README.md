@@ -1,7 +1,7 @@
 
 # ASCA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ASCA;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ASCA;Лудший_инструмент для обеспечения безопасности)](https://git.io/typing-svg)
 
 
 ![ASCA](https://github.com/user-attachments/assets/910614ea-0a6e-4f89-b072-834786d879f5)
