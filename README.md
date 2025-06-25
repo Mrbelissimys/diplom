@@ -4,7 +4,7 @@
 
 
 
-![Logo](![ASCA](https://github.com/user-attachments/assets/910614ea-0a6e-4f89-b072-834786d879f5)
+(![ASCA](https://github.com/user-attachments/assets/910614ea-0a6e-4f89-b072-834786d879f5)
 
 
 # ASCA
@@ -16,7 +16,7 @@ ASCA — этот проект направлен на разработку за
 
 - [@octokatherine](https://github.com/Mrbelissimys))
 
-- <h2 align="left">I code with</h2>
+- <h2 align="left">Проект написан с помощью</h2>
 
 ###
 
