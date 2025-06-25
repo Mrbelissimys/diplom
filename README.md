@@ -4,7 +4,7 @@
 
 
 
-(![ASCA](https://github.com/user-attachments/assets/910614ea-0a6e-4f89-b072-834786d879f5)
+![ASCA](https://github.com/user-attachments/assets/910614ea-0a6e-4f89-b072-834786d879f5)
 
 
 # ASCA
@@ -31,3 +31,9 @@ ASCA — этот проект направлен на разработку за
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrbelissimys/Mrbelissimys/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrbelissimys/Mrbelissimys/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mrbelissimys/Mrbelissimys/output/pacman-contribution-graph.svg">
+</picture>
