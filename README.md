@@ -1,4 +1,4 @@
-<h1 align="right">Привет 👋 Это команда ASCA</h1>
+<h1 Привет 👋 Это команда ASCA</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mrbelissimys/Mrbelissimys/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mrbelissimys/MaxPlays35/output/snake.svg" alt="Snake animation" />
 
 ###
 
