@@ -34,5 +34,5 @@ ASCA — этот проект направлен на разработку за
 
 ## Установка
 
-[![Скачать APK](https://img.shields.io/badge/Скачать_APK-blue)](https://github.com/ваш_пользователь/ваш_репозиторий/raw/main/ваш_файл.apk)
+[![Скачать APK](https://img.shields.io/badge/Скачать_APK-blue)]((https://github.com/Mrbelissimys/diplom/blob/main/ASCA.apk))
 
