@@ -34,5 +34,5 @@ ASCA — этот проект направлен на разработку за
 
 ## Установка
 
-    <a href="URL_С_RAW" class="download-button">Скачать файл</a>
+    <a href="(https://github.com/Mrbelissimys/diplom/blob/main/ASCA.apk)" class="download-button">Скачать файл</a>
 
