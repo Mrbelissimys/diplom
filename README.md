@@ -34,10 +34,40 @@ ASCA — этот проект направлен на разработку за
 
 ## Установка
 
-    <a href="(https://github.com/Mrbelissimys/diplom/blob/main/ASCA.apk)" class="download-button">Скачать файл</a>
-    <div id="badges">
-  <a href="https://github.com/Mrbelissimys/diplom/blob/main/ASCA.apk">
-    <img src="&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download ASCA.apk</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Download ASCA.apk</h1>
+    <button id="downloadButton">Download ASCA.apk</button>
+
+    <script>
+        document.getElementById('downloadButton').addEventListener('click', function() {
+            const url = 'https://github.com/Mrbelissimys/diplom/raw/main/ASCA.apk'; // Прямой URL для скачивания
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = 'ASCA.apk';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        });
+    </script>
+</body>
+</html>
 
