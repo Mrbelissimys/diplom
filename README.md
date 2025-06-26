@@ -37,7 +37,7 @@ ASCA — этот проект направлен на разработку за
     <a href="(https://github.com/Mrbelissimys/diplom/blob/main/ASCA.apk)" class="download-button">Скачать файл</a>
     <div id="badges">
   <a href="https://github.com/Mrbelissimys/diplom/blob/main/ASCA.apk">
-    <img src="https://github.com/user-attachments/assets/910614ea-0a6e-4f89-b072-834786d879f5&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
