@@ -34,6 +34,6 @@ ASCA — этот проект направлен на разработку за
 
 ## Установка
 
-<a href="https://github.com/Mrbelissimys/diplom/raw/main/ASCA.apk" style="display: inline-block; padding: 12px 24px; font-size: 16px; color: white; background-color: #28a745; border: none; border-radius: 5px; text-align: center; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
+<a href="https://github.com/Mrbelissimys/diplom/raw/main/ASCA.apk" style="display: inline-block; padding: 12px 24px; font-size: 16px; color: white; background-color: #28a745; border: none; border-radius: 25px; text-align: center; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
     Скачать
 </a>
